@@ -35,7 +35,7 @@ Follow these steps to install the system:
 
 > ✅ Make sure you have a supported version of Windows and the required .NET Framework installed.
 
-![Login Page](https://drive.google.com/uc?export=view&id=1BrRzJPi_LNFMi0IAtSNqiAJt4asskWX3)
+![Desktop Shortcut](https://drive.google.com/uc?export=view&id=1BrRzJPi_LNFMi0IAtSNqiAJt4asskWX3)
 
 ---
 
@@ -50,6 +50,8 @@ Follow these steps to install the system:
 ---
 
 ## 🔐 Create Account
+
+![Create Account Page](https://drive.google.com/uc?export=view&id=1Fb8tCMPEGa-4pvYRY2bKENpcK7WgMRIV)
 
 The **Create Account** feature allows users to register and automatically creates a folder structure for their practicals.
 
@@ -194,3 +196,62 @@ The Login page includes:
   
   If not  
   ➝ Login fails.
+
+---
+
+## 📄 Practicals & 📘 Tutorials Tabs
+
+![Practicals & Tutorials Tabs](https://drive.google.com/uc?export=view&id=1xO8ZTjgIDtle_BWHwvaKsuvkjI4P0skD)
+
+Once you're logged in, you will see Three main tabs:
+
+- **Practicals Tab**
+- **Tutorials Tab**
+- **RAR Tab**
+
+### 🔸 Interface Elements: Practicals Tab & Tutorials Tab
+
+- 🏷️ **Label**  
+  Displays your **Name**, **Registration Number**, and **Course Info**.  
+  When clicked, it **automatically copies the full folder path** of your account to the clipboard.
+
+- 🔘 **Log Out Button**  
+  Returns you to the **Login Page** immediately upon clicking.
+
+- 👁️ **View Button**  
+  Based on the selected **Course Category**, a list of practical or tutorial lessons is shown.  
+  Each lesson has a **View** button to open its related **PDF file**.
+
+> ✅ This structure helps users quickly navigate to and access required learning materials with ease.
+
+---
+
+## 🗂️ RAR Tab
+
+![RAR Tab](https://drive.google.com/uc?export=view&id=1xoipHAJnSr4cvEhn4gy7xKfzH28S462k)
+
+The **RAR Tab** allows students to lock and archive their completed practical work using WinRAR.  
+Buttons are dynamically displayed based on the selected **Course Category**.
+
+
+### 🔸 How it Works:
+
+For example, if you selected the course `DITEC`, you may see buttons like:
+
+- `1. Information Technology`
+- `1.1`
+- `1.1.1`
+- `1.1.2`
+
+Each button corresponds to a folder created for that specific practical lesson.
+
+### 🔐 RAR Button Behavior:
+
+- When you click a button:
+  - The system locates the relevant folder within your user directory.
+  - The folder is then compressed and password-protected using **WinRAR**.
+  - This ensures your completed practicals are **locked** and **preserved** from modification.
+
+> 🛡️ Helps maintain academic integrity by securing finished work before submission.
+
+---
