@@ -245,7 +245,7 @@ For example, if you selected the course `DITEC`, you may see buttons like:
 
 Each button corresponds to a folder created for that specific practical lesson.
 
-### 🔐 RAR Button Behavior:
+### 🗂️ RAR Button Behavior:
 
 - When you click a button:
   - The system locates the relevant folder within your user directory.
