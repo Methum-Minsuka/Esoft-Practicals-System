@@ -175,7 +175,7 @@ D:\Practicals\DITEC\DITEC 001\12345678 Methum Minsuka\
 
 ## 🔓 Login Page
 
-![Login Page](https://drive.google.com/uc?export=view&id=1rcx1YYSUYAFtEhhfejziCC1f2FpxUWKt)
+![Login Page](https://drive.google.com/uc?export=view&id=1K8pfkw4IEhfxLYm-jCP2HJZXnop16f37)
 
 The Login page includes:
 
@@ -189,3 +189,5 @@ The Login page includes:
 
 ### 🔸 Login Flow:
 - When you click **Login**, the system checks if a folder matching your details exists in:
+If it exists ➝ You are successfully logged in.  
+If not ➝ Login fails.
