@@ -186,8 +186,11 @@ The Login page includes:
 - `Course Category` (CIT / DITEC / Di(EXT)) - Combo Box
 - **Login** button
 - **Create Account** button
-
 ### 🔸 Login Flow:
 - When you click **Login**, the system checks if a folder matching your details exists in:
-If it exists ➝ You are successfully logged in.  
-If not ➝ Login fails.
+  
+  If it exists  
+  ➝ You are successfully logged in.  
+  
+  If not  
+  ➝ Login fails.
