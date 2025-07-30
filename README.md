@@ -15,7 +15,9 @@ The system simplifies academic file access and supports additional features for 
 ## 🛠️ Built With
 
 - **Programming Language**: C#
-
+- **Platform**: Windows Desktop Application
+- **Framework**: .NET Framework
+- **Third-party Tools**: Guna UI2 , Adobe Acrobat
 ---
 
 ## 💾 Installation Guide
