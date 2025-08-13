@@ -6,6 +6,23 @@
 
 ## 📝 Description
 
+**Esoft Practicals System** is a desktop application designed to help Esoft students easily access, organize, and secure their practical lessons and tutorials.  
+
+The system automatically creates a structured folder environment for each student based on their course category, batch, and registration details. This ensures all learning materials are neatly organized and easy to locate.  
+
+Students can:
+- Create an account and have their personal practicals folder tree generated instantly.
+- Log in to access **Practicals**, **Tutorials**, and **RAR** tools.
+- Open lesson PDFs directly from within the application.
+- Secure their completed work by compressing and password-protecting folders via **WinRAR**.
+
+The **folder structure generation** adapts dynamically to the selected course:
+- `DITEC` → All lessons (1–10)
+- `CIT` → Lessons 1–6
+- `Di(EXT)` → Lessons 7–10
+
+With its intuitive interface and automated file management, the **Esoft Practicals System** simplifies the process of managing study materials, protects completed work, and improves the overall learning experience.
+
 
 
 ---
